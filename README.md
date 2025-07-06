@@ -1,1 +1,1 @@
-# Dataset for RGB Event Spacecraft Pose Estimation
+# FRESH (Fusion with RGB and Events for Spacecraft pose estimation under Harsh lighting) Dataset
