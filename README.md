@@ -1,1 +1,1 @@
-# space-event-rgb-fusion
+# Dataset for RGB Event Spacecraft Pose Estimation
