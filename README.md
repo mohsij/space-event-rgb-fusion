@@ -9,13 +9,15 @@ https://zenodo.org/records/15861758
 
 ### Citation:
 ```
-@misc{jawaid2025eventrgbfusionspacecraftpose,
-      title={Event-RGB Fusion for Spacecraft Pose Estimation Under Harsh Lighting}, 
-      author={Mohsi Jawaid and Marcus Märtens and Tat-Jun Chin},
-      year={2025},
-      eprint={2507.05698},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2507.05698}, 
-}
+@article{JAWAID2026111039,
+title = {Event-RGB fusion for spacecraft pose estimation under harsh lighting},
+journal = {Aerospace Science and Technology},
+volume = {168},
+pages = {111039},
+year = {2026},
+issn = {1270-9638},
+doi = {https://doi.org/10.1016/j.ast.2025.111039},
+url = {https://www.sciencedirect.com/science/article/pii/S1270963825011022},
+author = {Mohsi Jawaid and Marcus Märtens and Tat-Jun Chin},
+keywords = {Event-based pose estimation, Rendezvous, Domain gap, Sensor fusion, Close proximity, Harsh lighting}}
 ```
