@@ -4,8 +4,8 @@
 ```
 https://zenodo.org/records/15861758
 ```
+[![DOI](https://zenodo.org/badge/DOI/10.1016/j.ast.2025.111039.svg)](https://doi.org/10.1016/j.ast.2025.111039)
 [![DOI](https://zenodo.org/badge/DOI/10.48550/arXiv.2507.05698.svg)](https://doi.org/10.48550/arXiv.2507.05698)
-
 
 ### Citation:
 ```
