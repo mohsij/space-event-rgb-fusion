@@ -17,7 +17,5 @@ pages = {111039},
 year = {2026},
 issn = {1270-9638},
 doi = {https://doi.org/10.1016/j.ast.2025.111039},
-url = {https://www.sciencedirect.com/science/article/pii/S1270963825011022},
-author = {Mohsi Jawaid and Marcus Märtens and Tat-Jun Chin},
-keywords = {Event-based pose estimation, Rendezvous, Domain gap, Sensor fusion, Close proximity, Harsh lighting}}
+author = {Mohsi Jawaid and Marcus Märtens and Tat-Jun Chin}}
 ```
